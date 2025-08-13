@@ -1,5 +1,5 @@
 # Amruth Nadimpally
-I am a Purdue CS student minoring in Mathematics. I am interested in deep learning, machine learning, applications of generative AI, and web development. 
+I am a Purdue CS student minoring in Mathematics. I am interested in deep learning, machine learning, applications of generative AI, and have experience in front-end development. 
 
 
 
